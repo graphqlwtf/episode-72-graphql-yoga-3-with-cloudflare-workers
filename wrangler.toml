@@ -1,0 +1,3 @@
+name = "episode-72"
+main = "src/index.ts"
+compatibility_date = "2023-01-09"
